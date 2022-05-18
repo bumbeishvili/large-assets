@@ -1,0 +1,9 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "band",
+        "month",
+        "y",
+        "x"
+    ],
+    "coordinates": "spatial_ref"
+}
